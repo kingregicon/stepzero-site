@@ -50,7 +50,6 @@ footer {
     margin-top: 3rem;
     color: #666;
     font-size: 0.9rem;
-    font-style: italic;
 }
 
 hr {
@@ -65,4 +64,8 @@ hr {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+
+.p-italic {
+    font-style: italic;
 }
