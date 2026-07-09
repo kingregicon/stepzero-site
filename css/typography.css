@@ -17,18 +17,23 @@ body {
 }
 
 main {
+    font-family: "EB Garamond";
+    font-weight: normal;
     max-width: 700px;
     padding: 2rem;
     text-align: center;
 }
 
 h1 {
+    font-family: "Cinzel";
+    font-weight: 800;
     font-size: 3.5rem;
     margin-bottom: 0.25rem;
     letter-spacing: 0.08em;
 }
 
 h2 {
+    font-family: "Cinzel";
     font-size: 1.2rem;
     font-weight: normal;
     color: #888;
@@ -58,28 +63,5 @@ hr {
   font-family: "EB Garamond", serif;
   font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
-}
-
-
-.eb-garamond-800 {
-  font-family: "EB Garamond", serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style: normal;
-}
-
-
-.cinzel-400 {
-  font-family: "Cinzel", serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.cinzel-800 {
-  font-family: "Cinzel", serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
   font-style: normal;
 }
