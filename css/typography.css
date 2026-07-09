@@ -76,3 +76,10 @@ hr {
   font-weight: 400;
   font-style: normal;
 }
+
+.cinzel-800 {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
